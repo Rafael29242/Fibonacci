@@ -7,13 +7,13 @@
 - Each Fibonacci Number after that can be computed as the sum of the previous two Fibonacci Numbers.
 ## Example Output:
 
-0
-1
-1
-2
-3
-5
-8
-13
-21
-. . . and so on . . .
+- 0
+- 1
+- 1
+- 2
+- 3
+- 5
+- 8
+- 13
+- 21
+- . . . and so on . . .
